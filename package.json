@@ -1,0 +1,24 @@
+{
+  "name": "joi-iso-utc-demo",
+  "version": "1.0.0",
+  "description": "simple widget to explore Joi's handling of time",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martin-Stankard/joi-iso-utc-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martin-Stankard/joi-iso-utc-demo/issues"
+  },
+  "homepage": "https://github.com/Martin-Stankard/joi-iso-utc-demo#readme",
+  "dependencies": {
+    "joi": "^14.3.1",
+    "joi-date-extensions": "^1.2.0",
+    "nodemon": "^1.19.1"
+  }
+}
